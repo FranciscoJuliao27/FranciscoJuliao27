@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**FranciscoJuliao27/FranciscoJuliao27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student at [UFCG](https://portal.ufcg.edu.br/) (Universidade Federal de Campina Grande) with a passion for technology. Looking forward to develop my skills and acquire knowledge in the field.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skillset🛠️
+<img 
+align='left'
+width='40px' 
+alt='Java' 
+title='Java' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='Python' 
+title='Python' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='Spring' 
+title='Spring' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='HTML' 
+title='HTML' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='CSS' 
+title='CSS' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='PostgreSQL' 
+title='PostgreSQL' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/><img 
+align='left'
+width='40px' 
+alt='PostgreSQL' 
+title='PostgreSQL' 
+style='margin-right: 10px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+          
+          
