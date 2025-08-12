@@ -54,10 +54,12 @@ alt='PostgreSQL'
 title='PostgreSQL' 
 style='margin-right: 10px'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-        
-### I also have an interest for Competitive Programming!
+/>  
+
+---
+
+### I also have an interest for Competitive Programming!  
 
 Check my profiles:
-[BeeCrowd](https://judge.beecrowd.com/en/profile/1055515)
+[BeeCrowd](https://judge.beecrowd.com/en/profile/1055515)  
 [Vjudge](https://vjudge.net/user/francisco_amado)
